@@ -1,4 +1,4 @@
-public class sonarQube03 {
+class sonarQube03 {
     int calcNumbers(int start){
         int accumulator = start;
         boolean success = true;
